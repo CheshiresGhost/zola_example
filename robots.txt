@@ -1,0 +1,5 @@
+
+Sitemap: https://CheshiresGhost.github.io/zola_example/sitemap.xml
+User-Agent: *
+Allow: /
+Host: https://CheshiresGhost.github.io/zola_example
