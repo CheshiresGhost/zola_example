@@ -1,6 +1,7 @@
 +++
 title = "Exo 1"
 description = "L'exo 1 du cours 2 de Ruch"
+date = 2024-12-04
 +++
 
 ![Image](https://biodiversitypmc.sibils.org/img/logo_banner.7ff68d4d.png)
